@@ -1,0 +1,13 @@
+import turtle
+t = turtle.Pen()
+t.speed(100) #speed up turtle, use 1 to slow down
+t.forward(50)
+t.left(90)
+t.forward(50)
+t.left(90)
+t.forward(50)
+t.left(90)
+t.forward(50)
+t.left(90)
+#Square without a loop
+t.reset()
